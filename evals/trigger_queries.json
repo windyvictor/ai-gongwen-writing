@@ -1,0 +1,14 @@
+{
+  "skill": "ai-gongwen-writing",
+  "protocol": "每条查询在新会话运行 3 次；记录是否加载本技能及误路由原因。",
+  "queries": [
+    {"query": "根据这些会议记录起草一份会议纪要。", "should_trigger": true},
+    {"query": "这件事该写通知、请示还是报告？", "should_trigger": true},
+    {"query": "把这份周报压缩成领导三分钟能看完的版本。", "should_trigger": true},
+    {"query": "请根据现有材料写一份年度工作总结，不要补造数据。", "should_trigger": true},
+    {"query": "把这份制度草案改成可执行的条款。", "should_trigger": true},
+    {"query": "给同事写一句请假微信。", "should_trigger": false},
+    {"query": "修改论文 Introduction 的学术表达。", "should_trigger": false},
+    {"query": "分析这个项目是否值得投资。", "should_trigger": false}
+  ]
+}

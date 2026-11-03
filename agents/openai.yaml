@@ -1,0 +1,6 @@
+interface:
+  display_name: "AI 公文与职场写作"
+  short_description: "按文种、受众与行动目标起草和修改可执行的公文职场材料"
+  default_prompt: "使用 $ai-gongwen-writing 根据这些素材选择合适文种并起草成稿，不补造事实。"
+policy:
+  allow_implicit_invocation: true
