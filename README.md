@@ -1,8 +1,21 @@
 # ai-gongwen-writing
 
-English | [中文](README.cn.md)
+English | [中文](README.cn.md) · [Research Skillbox](https://github.com/windyvictor/research-skillbox)
 
 A Chinese official-document and workplace-writing skill covering notices, bulletins, meeting minutes, plans, reports, speeches, applications, retrospectives, weekly reports, and other common genres.
+
+## Why this skill
+
+Official writing fails early when the wrong genre is chosen or when proposals, facts, decisions, and action items are mixed together. This skill selects the document type before drafting, extracts usable facts from the supplied material, and writes toward a real reader and action.
+
+### What you get
+
+- A genre decision when the user is unsure whether to write a notice, request, report, bulletin, or minutes
+- A complete draft built from the user's actual facts
+- Visible placeholders for missing names, dates, policy references, or data
+- A final check of structure, tone, action ownership, deadlines, and factual consistency
+
+**Workflow:** identify the action and reader → choose the genre → extract facts and missing fields → draft by function → verify the final document.
 
 ## Use it for
 

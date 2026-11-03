@@ -1,12 +1,21 @@
 # ai-gongwen-writing
 
-[English](README.md) | 中文
+[English](README.md) | 中文 · [Research Skillbox 总导航](https://github.com/windyvictor/research-skillbox)
 
 > **公文与职场写作**技能库 —— 20+ 公文文种 + 职场文体，每个文种都有写作公式。
 
 ## 一句话定位
 
 把一份模糊的公文 / 职场写作需求，变成一份结构对、口径准、可直接交稿的材料。
+
+## 你会得到什么
+
+- 不确定文种时，先判断该写通知、请示、报告、通报还是纪要
+- 根据现有素材形成完整成稿，不把模板当成事实
+- 对缺失的人名、日期、文件号、数据和责任单位使用清晰占位符
+- 在交稿前核对结构、语气、行动主体、时间节点和事实一致性
+
+工作路径是：**明确行动与读者 → 选择文种 → 提取事实和缺项 → 按功能成稿 → 做交付核对**。会议纪要会严格区分发言、建议、分歧和正式决议。
 
 双来源融合：
 
@@ -64,3 +73,12 @@ ai-gongwen-writing/
 
 > 「下周的实验室安全检查，帮我写一份通知。」
 > 「我做了个年度项目复盘，帮我整理成规范的复盘报告。」
+
+## 安装
+
+```bash
+git clone https://github.com/windyvictor/ai-gongwen-writing.git
+ln -s "$PWD/ai-gongwen-writing" ~/.agents/skills/ai-gongwen-writing
+```
+
+其他宿主请把仓库放入对应的 skills 目录。
